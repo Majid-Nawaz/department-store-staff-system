@@ -1,0 +1,12 @@
+# Maven
+/target/
+
+# NetBeans
+nb-configuration.xml
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
