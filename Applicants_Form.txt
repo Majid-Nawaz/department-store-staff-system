@@ -1,0 +1,47 @@
+First name,Last name,Gender,Email,Salary,Department,Manager type,Job title,Store
+Kate,Summer,Female,kate.summer@northgatestore.ie,52000.00,Womenswear,Department Manager,Womenswear Manager,Northgate Department Store
+Ken,Winter,Male,ken.winter@northgatestore.ie,33500.00,Menswear,Team Lead,Menswear Floor Lead,Northgate Department Store
+James,Anderson,Male,james.anderson@northgatestore.ie,72000.00,Operations,Senior Manager,Operations Manager,Northgate Department Store
+Sarah,Johnson,Female,sarah.johnson@northgatestore.ie,40500.00,HR,Assistant Manager,HR Assistant Manager,Northgate Department Store
+John,Smith,Male,john.smith@northgatestore.ie,68000.00,Finance,Senior Manager,Finance Manager,Northgate Department Store
+Emily,Brown,Female,emily.brown@northgatestore.ie,27200.00,Beauty,Staff,Beauty Advisor,Northgate Department Store
+Michael,Williams,Male,michael.williams@northgatestore.ie,26800.00,Electronics,Staff,Tech Sales Assistant,Northgate Department Store
+Sophia,Taylor,Female,sophia.taylor@northgatestore.ie,25900.00,Customer Service,Staff,Customer Service Assistant,Northgate Department Store
+David,Wilson,Male,david.wilson@northgatestore.ie,54000.00,Electronics,Department Manager,Electronics Manager,Northgate Department Store
+Olivia,Martinez,Female,olivia.martinez@northgatestore.ie,28300.00,Finance,Staff,Accounts Assistant,Northgate Department Store
+Ethan,Anderson,Male,ethan.anderson@northgatestore.ie,35200.00,Finance,Team Lead,Payroll Team Lead,Northgate Department Store
+Mia,Clark,Female,mia.clark@northgatestore.ie,26100.00,Home & Furniture,Staff,Sales Assistant,Northgate Department Store
+John,Anderson,Male,john.anderson@northgatestore.ie,51500.00,Menswear,Department Manager,Menswear Manager,Northgate Department Store
+Sam,Johnson,Female,sam.johnson@northgatestore.ie,53000.00,HR,Department Manager,HR Manager,Northgate Department Store
+John,Brown,Male,john.brown@northgatestore.ie,49800.00,Food Hall,Department Manager,Food Hall Manager,Northgate Department Store
+Emma,Brown,Female,emma.brown@northgatestore.ie,26700.00,Beauty,Staff,Beauty Advisor,Northgate Department Store
+Max,Williams,Male,max.williams@northgatestore.ie,25400.00,Electronics,Staff,Stock Assistant,Northgate Department Store
+Sonya,Taylor,Female,sonya.taylor@northgatestore.ie,25900.00,Customer Service,Staff,Customer Service Assistant,Northgate Department Store
+Denis,Wilson,Male,denis.wilson@northgatestore.ie,50200.00,Home & Furniture,Department Manager,Home & Furniture Manager,Northgate Department Store
+Olga,Martinez,Female,olga.martinez@northgatestore.ie,28000.00,Finance,Staff,Accounts Assistant,Northgate Department Store
+Ed,Anderson,Male,ed.anderson@northgatestore.ie,32800.00,Food Hall,Team Lead,Food Hall Shift Lead,Northgate Department Store
+Milla,Clark,Female,milla.clark@northgatestore.ie,33100.00,Home & Furniture,Team Lead,Home Floor Lead,Northgate Department Store
+Sophia,Lopez,Female,sophia.lopez@northgatestore.ie,25600.00,Womenswear,Staff,Sales Assistant,Northgate Department Store
+Benjamin,Hill,Male,benjamin.hill@northgatestore.ie,48500.00,Customer Service,Department Manager,Customer Service Manager,Northgate Department Store
+Jessica,Lee,Female,jessica.lee@northgatestore.ie,95000.00,Operations,Store Manager,General Store Manager,Northgate Department Store
+Daniel,Walker,Male,daniel.walker@northgatestore.ie,26300.00,Operations,Staff,Stockroom Assistant,Northgate Department Store
+Eleanor,Harris,Female,eleanor.harris@northgatestore.ie,50700.00,Beauty,Department Manager,Beauty Manager,Northgate Department Store
+Chris,Evans,Male,chris.evans@northgatestore.ie,25500.00,Customer Service,Staff,Customer Service Assistant,Northgate Department Store
+Alex,Turner,Male,alex.turner@northgatestore.ie,34400.00,Electronics,Team Lead,Electronics Floor Lead,Northgate Department Store
+Nina,Holmes,Female,nina.holmes@northgatestore.ie,42000.00,Finance,Assistant Manager,Finance Assistant Manager,Northgate Department Store
+Victor,Stewart,Male,victor.stewart@northgatestore.ie,41300.00,Electronics,Assistant Manager,Electronics Assistant Manager,Northgate Department Store
+Lucy,Bennett,Female,lucy.bennett@northgatestore.ie,29100.00,HR,Staff,HR Administrator,Northgate Department Store
+Oscar,Reed,Male,oscar.reed@northgatestore.ie,29800.00,Finance,Staff,Bookkeeper,Northgate Department Store
+Lana,Parker,Female,lana.parker@northgatestore.ie,39700.00,Womenswear,Assistant Manager,Womenswear Assistant Manager,Northgate Department Store
+Harry,Cooper,Male,harry.cooper@northgatestore.ie,25700.00,Menswear,Staff,Sales Assistant,Northgate Department Store
+Isla,Fisher,Female,isla.fisher@northgatestore.ie,25800.00,Home & Furniture,Staff,Sales Assistant,Northgate Department Store
+Leo,Wright,Male,leo.wright@northgatestore.ie,49500.00,Kidswear,Department Manager,Kidswear Manager,Northgate Department Store
+Eva,Mitchell,Female,eva.mitchell@northgatestore.ie,32600.00,Customer Service,Team Lead,Customer Service Team Lead,Northgate Department Store
+Ryan,Carter,Male,ryan.carter@northgatestore.ie,34900.00,Operations,Team Lead,Logistics Team Lead,Northgate Department Store
+Holly,Brooks,Female,holly.brooks@northgatestore.ie,25300.00,Kidswear,Staff,Sales Assistant,Northgate Department Store
+Daniel,Gray,Male,daniel.gray@northgatestore.ie,38900.00,Menswear,Assistant Manager,Menswear Assistant Manager,Northgate Department Store
+Layla,Jones,Female,layla.jones@northgatestore.ie,24800.00,Food Hall,Staff,Food Hall Assistant,Northgate Department Store
+Sebastian,Morgan,Male,sebastian.morgan@northgatestore.ie,35600.00,HR,Team Lead,Recruitment Team Lead,Northgate Department Store
+Elena,Scott,Female,elena.scott@northgatestore.ie,32400.00,Kidswear,Team Lead,Kidswear Floor Lead,Northgate Department Store
+Finn,Walker,Male,finn.walker@northgatestore.ie,24600.00,Food Hall,Staff,Food Hall Assistant,Northgate Department Store
+Amelia,King,Female,amelia.king@northgatestore.ie,33300.00,Womenswear,Team Lead,Womenswear Floor Lead,Northgate Department Store

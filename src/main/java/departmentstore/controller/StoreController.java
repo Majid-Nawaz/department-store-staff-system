@@ -16,33 +16,29 @@ public class StoreController {
     }
 
     public void run() {
-        view.showMessage("=== Department Store Staff System ===");
+        view.showWelcome();
 
         boolean running = true;
         while (running) {
             view.showMenu();
             MenuOption choice = view.readMenuChoice();
-            view.showMessage(choice.getLabel() + " selected");
+            view.showChoice(choice);
 
             switch (choice) {
-                case SORT:
-                    // sorting gets added here later
-                    view.showMessage("Sort is coming soon.");
+                case SORT_NAMES:
+                    view.showMessage("Sorting isn't available yet.");
                     break;
-                case SEARCH:
-                    // searching gets added here later
-                    view.showMessage("Search is coming soon.");
+                case FIND_EMPLOYEE:
+                    view.showMessage("Searching isn't available yet.");
                     break;
-                case ADD_RECORDS:
-                    // adding new staff gets added here later
-                    view.showMessage("Add records is coming soon.");
+                case ADD_EMPLOYEE:
+                    view.showMessage("Adding employees isn't available yet.");
                     break;
-                case BINARY_TREE:
-                    // binary tree gets added here later
-                    view.showMessage("Binary tree is coming soon.");
+                case BUILD_HIERARCHY:
+                    view.showMessage("The hierarchy tree isn't available yet.");
                     break;
-                case EXIT:
-                    view.showMessage("Goodbye!");
+                case QUIT:
+                    view.showMessage("Closing Staff Hub. See you next time!");
                     running = false;
                     break;
             }
